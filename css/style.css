@@ -1,12 +1,13 @@
 body {
-    font-family: Arial;
-    background-color: brown;
+    font-family: Ariel;
+    background-color: coral;
+    padding: 20px;
 }
 
 h1 {
-    color: blanchedalmond;
+    color: darkgreen;
 }
 
-p {
-    color: aquamarine;
+h2 {
+    color: darkgreen;
 }
